@@ -6,3 +6,7 @@ Matematiki
 Josip Plemlelj
 Jurij Vega
 Ivan Vidav
+
+predsednik države:
+
+Borut Pahor
