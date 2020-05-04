@@ -1,11 +1,11 @@
 # Vislice
 Repozitorij projekta vislice, ki ga bomo skupaj delali na vajah pri predmetu UVP.
 
-Matematiki
+Matematiki:
 
-Josip Plemlelj
-Jurij Vega
-Ivan Vidav
+-Josip Plemlelj
+-Jurij Vega
+-Ivan Vidav
 
 Predsednik Vlade:
 Janez Janša
