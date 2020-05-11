@@ -1,3 +1,4 @@
+import random
 # to datoteko ustvarjam po navodilih iz spletne učilnice
 
 # najprej nastavimo konstante
@@ -52,7 +53,7 @@ class Igra:
     def pravilni_del_gesla(self):
         trenutno = ""
         for crka in self.geslo:
-            if crke in self.crke:
+            if crka in self.crke:
                 trenutno += crka
             else:
                 trenutno += "_"
