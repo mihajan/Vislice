@@ -1,12 +1,5 @@
 # Vislice
-Repozitorij projekta vislice, ki ga bomo skupaj delali na vajah pri predmetu UVP.
 
-Matematiki
+Projekt pri predmetu uvod v programiranje.
 
-Josip Plemlelj
-Jurij Vega
-Ivan Vidav
-
-predsednik države:
-
-Borut Pahor
+Naredili bomo program, ki  nas vodi skozi preprosto igro vislic.
