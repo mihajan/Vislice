@@ -1,10 +1,7 @@
 %import model
+%rebase('base.tpl', title='Vislice')
 
 
-<!DOCTYPE html>
-<html>
-
-<body>
 
   <h1>Vislice</h1>
 
@@ -22,18 +19,20 @@
      <h1> IZGUBIL SI </h1>
    % else: 
 
+  <img src="img/10.jpg" alt="obesanje">
+  
+ <form action="/nova-igra/" method="post">
+    <button type="submit">Nova igra</button>
 
-  <form action="/igra/{{id_igre}}/" method="post">
-   Črka: <input type="text" name="crka">
+
+
+  <form action="/igra/" method="post">
+   Črka: <input type="text" name="crka" maxlength="1">
    <button type="submit">Ugibaj novo črko</button>
   </form>
 
 
-  <img src="img/10.jpg" alt="obesanje">
 
-  <form action="/igra/" method="post">
-    <button type="submit">Nova igra</button>
+
+ 
   </form>
-</body>
-
-</html>
